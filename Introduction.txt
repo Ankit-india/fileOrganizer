@@ -1,0 +1,18 @@
+Introduction 
+
+This  project will help to read file using CLI
+this Project uses 
+                    fs module
+                    path module
+
+1. node main.js help
+
+help -> list of commands
+
+2. node main.js organize
+
+organize ->
+            .mp4 -> videos
+            .mp3 -> musics
+            .pdf, .doc, .xlsx -> documents
+
